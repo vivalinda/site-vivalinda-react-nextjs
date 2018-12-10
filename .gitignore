@@ -3,3 +3,9 @@ node_modules
 
 # build output
 .next
+
+# out output
+out
+
+# token
+instatoken.js

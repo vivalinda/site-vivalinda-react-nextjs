@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "alias": "www.vivalinda.com.br",
+  "builds": [
+    { "src": "out", "use": "@now/static" }
+  ]
+}
